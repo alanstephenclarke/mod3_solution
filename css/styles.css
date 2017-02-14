@@ -21,6 +21,12 @@
   text-decoration: none;
 }
 
+.navbar-default .navbar-nav>li>a {
+
+  color:black;
+  font-weight: bold; 
+}
+
 /*for container*/
 
 h2 {
